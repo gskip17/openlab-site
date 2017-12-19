@@ -6,7 +6,7 @@
 
 ### Build Process
 
-Just run `gulp` to run the script in `gulpfile.js`. The script takes all the 'content' body from `public/content` and then uses the various templates you configure it to use to generate static html files in `dist`.
+Just run `gulp` to run the script in `gulpfile.js`. The script takes all the 'content' body from `public/content` and then uses the various templates you configure it to use to generate static html files in `dist`. Open `dist` html files to view project locally.
 
 ## Markup
 

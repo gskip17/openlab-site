@@ -19,6 +19,10 @@
 		vertical-align: baseline;
 	}
 
+	article {
+		margin-top:20px;
+	}
+
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
@@ -2725,6 +2729,7 @@
 
 	#header {
 		color: #d4e0ef;
+		background-color: #5385c1;
 		cursor: default;
 		height: 3.25em;
 		left: 0;
@@ -2934,7 +2939,8 @@
 
 	#banner {
 		padding: 12em 0 10em 0;
-		background-image: url('../../images/banner.jpg');
+		/*background-image: url('../../images/banner.jpg');*/
+		background-color: rgb(83, 133, 193);
 		background-size: cover;
 		background-position: top;
 		background-attachment: fixed;
